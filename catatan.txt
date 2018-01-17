@@ -1,0 +1,10 @@
+Environment yang digunakan adalah Apache Spark, yang merupakan framework pengolahan data besar
+
+Apache Spark dipilih karena:
+
+- kapabilitasnya (kemampuan mengolah data besar dengan waktu yang relatif cepat)
+- fungsionalitasnya (library yang ditawarkan sangat lengkap)
+- skalabilitas (dapat dijalankan menggunakan komputer cluster untuk melakukan pararelisasi job)
+- fleksibilitasnya (dapat diimplementasikan dengan bahasa pemrograman Scala, Python, atau Java)
+
+Apache Spark juga digunakan karena dapat diintegrasikan dengan berbagai tipe database, seperti MySQL, Hive, dll
